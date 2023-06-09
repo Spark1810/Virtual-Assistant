@@ -7,7 +7,7 @@ import speech_recognition as sr;
 import os
 import pprint
 from pprint import pprint
-from gtts import gTTS
+from gtts import gTTS 
 import pyttsx3;
 from googletrans import Translator, constants
 from pydub import AudioSegment
