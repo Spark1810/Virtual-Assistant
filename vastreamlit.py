@@ -4,7 +4,7 @@ import pyttsx3;
 import time;
 import mysql.connector;
 import speech_recognition as sr;
-import os
+import os 
 import pprint
 from pprint import pprint
 from gtts import gTTS 
