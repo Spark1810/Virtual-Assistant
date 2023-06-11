@@ -1,0 +1,12 @@
+streamlit
+pyttsx3
+webbrowser
+datetime
+wikipedia
+requests
+bs4
+screen_brightness_control
+pywin32-stubs
+math
+pyautogui
+pywhatkit
