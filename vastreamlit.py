@@ -3,22 +3,14 @@ import streamlit as st
 import pyttsx3;
 import time;
 import os
-import pyttsx3;
-from googletrans import Translator, constants
-from pydub import AudioSegment
-from pydub.silence import split_on_silence
 import webbrowser
 import datetime
 import wikipedia
 import requests
-import pywintypes
 from bs4 import BeautifulSoup
 import screen_brightness_control as sbc
 import win32gui, win32con
-import os
 import math
-import numpy as np
-import pandas as pd 
 import random
 import pyautogui
 import pywhatkit
