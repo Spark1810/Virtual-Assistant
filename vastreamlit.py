@@ -14,7 +14,6 @@ import math
 import random
 import pyautogui
 import pywhatkit
-import datetime
 
 z="sir"
 #========================================== Voice funtion
