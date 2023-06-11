@@ -2,10 +2,7 @@
 import streamlit as st
 import pyttsx3;
 import time;
-import mysql.connector;
-import speech_recognition as sr;
 import os
-from gtts import gTTS
 import pyttsx3;
 from googletrans import Translator, constants
 from pydub import AudioSegment
