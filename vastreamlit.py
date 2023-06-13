@@ -260,7 +260,7 @@ def response(text):
     elif query !="":
         import os
         import openai
-        openai.api_key = "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"
+        openai.api_key = "your open-api key"
         def ask_chatgpt(prompt):
             model_engine = "text-davinci-003"
             response = openai.Completion.create(
