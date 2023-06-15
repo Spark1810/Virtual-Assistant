@@ -3,7 +3,7 @@ import streamlit as st
 import pyttsx3;
 import time;
 import os
-import webbrowser
+import webbrowser 
 import datetime
 import wikipedia
 import requests
